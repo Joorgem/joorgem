@@ -49,7 +49,7 @@ I am deeply passionate about the intersection of data science, machine learning,
 
 ## Languages Used (By File Size)
 
-![Languages Used (By File Size)](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide=html,css)
+![Languages Used (By File Size)](https://github-readme-stats.vercel.app/api/top-langs/?username=joorgem&layout=compact&langs_count=8&hide=html,css)
 
 ## Get in Touch
 
