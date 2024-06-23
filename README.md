@@ -1,432 +1,58 @@
-<h3 align="center">I am a Chemical Engineering graduate from the University of São Paulo, and I've been working in the field of data analysis for 5 years. Currently, I'm a Business Intelligence Analyst at a company within the Santander Group.</h3>
-
-- 🌱 Learning: **Python, Machine Learning, AI Engineering**
-
-- 📚 Reading: **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.**
-
-- 📫 How to reach me **jorge.molinadavid.jm@gmail.com**
-
-- 📄 Know about my experiences [https://ibb.co/VvRD42N](https://ibb.co/VvRD42N)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-molina-539394197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-molina-539394197/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joorgem&show_icons=true&locale=en&layout=compact" alt="joorgem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joorgem&show_icons=true&locale=en" alt="joorgem" /></p>
-
-<svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
-<style>
-svg {
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  font-size: 14px;
-  line-height: 21px;
-}
-
-#background {
-  width: calc(100% - 10px);
-  height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
-  rx: 6px;
-  ry: 6px;
-}
-
-foreignObject {
-  width: calc(100% - 10px - 32px);
-  height: calc(100% - 10px - 24px);
-}
-
-h2 {
-  margin-top: 0;
-  margin-bottom: 0.75em;
-  line-height: 24px;
-  font-size: 16px;
-  font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
-}
-
-ul {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-li {
-  display: inline-flex;
-  font-size: 12px;
-  margin-right: 2ch;
-  align-items: center;
-  flex-wrap: nowrap;
-  transform: translateX(-500%);
-  animation-duration: 2s;
-  animation-name: slideIn;
-  animation-function: ease-in-out;
-  animation-fill-mode: forwards;
-}
-
-@keyframes slideIn {
-  to {
-    transform: translateX(0);
-  }
-}
-
-div.ellipsis {
-  height: 100%;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.octicon {
-  fill: rgb(88, 96, 105);
-  margin-right: 0.5ch;
-  vertical-align: top;
-}
-
-.progress {
-  display: flex;
-  height: 8px;
-  overflow: hidden;
-  background-color: rgb(225, 228, 232);
-  border-radius: 6px;
-  outline: 1px solid transparent;
-  margin-bottom: 1em;
-}
-
-.progress-item {
-  outline: 2px solid rgb(225, 228, 232);
-  border-collapse: collapse;
-}
-
-.lang {
-  font-weight: 600;
-  margin-right: 4px;
-  color: rgb(36, 41, 46);
-}
-
-.percent {
-  color: rgb(88, 96, 105)
-}
-</style>
-<g transform="translate(5, 5)">
-<rect id="background" />
-<g transform="translate(16, 16)">
-<foreignObject>
-<div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
-
-<h2>Languages Used (By File Size)</h2>
-
-<div>
-<span class="progress">
-<span style="background-color: #e34c26;width: 45.172%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 25.986%;" class="progress-item"></span><span style="background-color: #563d7c;width: 9.656%;" class="progress-item"></span><span style="background-color: #2b7489;width: 8.851%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 4.333%;" class="progress-item"></span><span style="background-color: #427819;width: 2.016%;" class="progress-item"></span><span style="background-color: #701516;width: 1.759%;" class="progress-item"></span><span style="background-color: #ff3e00;width: 0.482%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.322%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.265%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.242%;" class="progress-item"></span><span style="background-color: #2c3e50;width: 0.228%;" class="progress-item"></span><span style="background-color: #a91e50;width: 0.173%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.130%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.129%;" class="progress-item"></span><span style="background-color: #555555;width: 0.108%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 0.067%;" class="progress-item"></span><span style="background-color: #ff6347;width: 0.023%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.021%;" class="progress-item"></span><span style="background-color: #da291c;width: 0.009%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.008%;" class="progress-item"></span><span style="background-color: #4B6C4B;width: 0.005%;" class="progress-item"></span><span style="background-color: #148AA8;width: 0.004%;" class="progress-item"></span><span style="background-color: #DBCA00;width: 0.004%;" class="progress-item"></span><span style="background-color: #101F1F;width: 0.003%;" class="progress-item"></span><span style="background-color: #f7931e;width: 0.002%;" class="progress-item"></span><span style="background-color: #000000;width: 0.002%;" class="progress-item"></span><span style="background-color: #aa2afe;width: 0.000%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.000%;" class="progress-item"></span><span style="background-color: #012456;width: 0.000%;" class="progress-item"></span><span style="background-color: #1d365d;width: 0.000%;" class="progress-item"></span><span style="background-color: #a53b70;width: 0.000%;" class="progress-item"></span>
-</span>
-</div>
-
-<ul>
-
-
-<li style="animation-delay: 0ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">HTML</span>
-<span class="percent">45.17%</span>
-</li>
-
-
-<li style="animation-delay: 150ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">JavaScript</span>
-<span class="percent">25.99%</span>
-</li>
-
-
-<li style="animation-delay: 300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">CSS</span>
-<span class="percent">9.66%</span>
-</li>
-
-
-<li style="animation-delay: 450ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2b7489;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">TypeScript</span>
-<span class="percent">8.85%</span>
-</li>
-
-
-<li style="animation-delay: 600ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00ADD8;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Go</span>
-<span class="percent">4.33%</span>
-</li>
-
-
-<li style="animation-delay: 750ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#427819;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Makefile</span>
-<span class="percent">2.02%</span>
-</li>
-
-
-<li style="animation-delay: 900ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#701516;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Ruby</span>
-<span class="percent">1.76%</span>
-</li>
-
-
-<li style="animation-delay: 1050ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff3e00;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Svelte</span>
-<span class="percent">0.48%</span>
-</li>
-
-
-<li style="animation-delay: 1200ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b07219;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Java</span>
-<span class="percent">0.32%</span>
-</li>
-
-
-<li style="animation-delay: 1350ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c6538c;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">SCSS</span>
-<span class="percent">0.27%</span>
-</li>
-
-
-<li style="animation-delay: 1500ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Python</span>
-<span class="percent">0.24%</span>
-</li>
-
-
-<li style="animation-delay: 1650ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2c3e50;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Vue</span>
-<span class="percent">0.23%</span>
-</li>
-
-
-<li style="animation-delay: 1800ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a91e50;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">EJS</span>
-<span class="percent">0.17%</span>
-</li>
-
-
-<li style="animation-delay: 1950ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#438eff;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Objective-C</span>
-<span class="percent">0.13%</span>
-</li>
-
-
-<li style="animation-delay: 2100ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Shell</span>
-<span class="percent">0.13%</span>
-</li>
-
-
-<li style="animation-delay: 2250ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#555555;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">C</span>
-<span class="percent">0.11%</span>
-</li>
-
-
-<li style="animation-delay: 2400ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f34b7d;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">C++</span>
-<span class="percent">0.07%</span>
-</li>
-
-
-<li style="animation-delay: 2550ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff6347;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Stylus</span>
-<span class="percent">0.02%</span>
-</li>
-
-
-<li style="animation-delay: 2700ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3D6117;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">TeX</span>
-<span class="percent">0.02%</span>
-</li>
-
-
-<li style="animation-delay: 2850ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#da291c;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">PostScript</span>
-<span class="percent">0.01%</span>
-</li>
-
-
-<li style="animation-delay: 3000ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#384d54;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Dockerfile</span>
-<span class="percent">0.01%</span>
-</li>
-
-
-<li style="animation-delay: 3150ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4B6C4B;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Yacc</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 3300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#148AA8;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">VCL</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 3450ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DBCA00;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Lex</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 3600ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#101F1F;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">AppleScript</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 3750ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f7931e;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Handlebars</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 3900ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">PLpgSQL</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 4050ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#aa2afe;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Arc</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 4200ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Batchfile</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 4350ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#012456;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">PowerShell</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 4500ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1d365d;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Less</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 4650ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a53b70;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Sass</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-
-</ul>
-
-</div>
-</foreignObject>
-</g>
-</g>
-</svg>
+# Hi there, I'm Jorge Molina 👋
 
+I am a Chemical Engineering graduate from the University of São Paulo, and I've been working in the field of data analysis for 4 years. Currently, I'm a Business Intelligence Analyst at a company within the Santander Group.
+
+## 🧑‍💼 About Me
+
+I am deeply passionate about the intersection of data science, machine learning, and artificial intelligence. My current focus is on advancing my expertise in Python and mastering cutting-edge libraries and frameworks. These include:
+
+- **TensorFlow**: For building and deploying machine learning models.
+- **PyTorch**: For deep learning research and production.
+- **SkLearn**: For robust machine learning algorithms and model selection.
+- **Langchain**: For developing and integrating natural language processing (NLP) models.
+- **XGBoost**: For gradient boosting and efficient model training.
+- **Optuna**: For hyperparameter optimization to improve model performance.
+- **Dask**: For parallel computing and scaling data analysis workflows.
+- **Hugging Face Transformers**: For state-of-the-art NLP models and applications.
+
+## 💡 Interests
+
+- **Machine Learning**: Specializing in the design and implementation of sophisticated machine learning models, leveraging neural networks, reinforcement learning, and unsupervised learning techniques to solve complex problems.
+- **Data Science & Predictive Analytics**: Sstatistical analysis, predictive modeling, and data-driven decision making, utilizing advanced methodologies such as Bayesian inference, time series analysis, and anomaly detection.
+- **AI Engineering & Language Models**: Focused on developing and engineering advanced AI solutions, utilizing libraries such as Langchain for integrating sophisticated language models, and Hugging Face Transformers for building and deploying robust NLP applications.
+
+
+## 🚀 Projects
+
+- **Sales Analysis for Wish Marketplace**: Using Pandas and Matplotlib to identify trends and optimize sales strategies, employing linear regression and time series analysis.
+- **Predicting Heart Disease Risk with Machine Learning**: Utilized Scikit-learn and TensorFlow for logistic regression, decision trees, and neural networks on patient health data.
+- **Customer Churn Prediction**: Implemented XGBoost and Scikit-learn for gradient boosting and ensemble methods to forecast churn rates.
+- **Fraud Detection in Financial Transactions**: Applied random forests and anomaly detection using Scikit-learn and PyTorch for identifying fraudulent transactions.
+- **Recommendation System for E-commerce**: Developed with collaborative and content-based filtering using Scikit-learn and Surprise, deployed via FastAPI.
+
+## 🛠️ Technologies & Tools 
+
+- **Programming Languages**: Python
+- **Data Analysis & Visualization**: Pandas, Matplotlib, Seaborn
+- **Machine Learning & AI**: Scikit-learn, TensorFlow, PyTorch, XGBoost
+- **NLP & Language Models**: Langchain, Hugging Face Transformers, spaCy, OpenAI GPT
+
+## 🌱 Learning
+
+- Python
+- Machine Learning
+- AI Engineering
+
+## 📚 Reading
+
+- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems* by Aurélien Géron
+
+## Languages Used (By File Size)
+
+![Languages Used (By File Size)](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide=html,css)
+
+## Get in Touch
+
+Feel free to reach out to me via [your email] or connect with me on [LinkedIn](your-linkedin-profile).
+
+Let's collaborate and create something amazing together!
