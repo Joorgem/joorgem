@@ -54,5 +54,3 @@ I am deeply passionate about the intersection of data science, machine learning,
 ## Get in Touch
 
 Feel free to reach out to me via [your email] or connect with me on [LinkedIn](your-linkedin-profile).
-
-Let's collaborate and create something amazing together!
