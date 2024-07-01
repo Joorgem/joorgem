@@ -33,7 +33,7 @@ I am deeply passionate about the intersection of data science, machine learning,
 ## 🛠️ Technologies & Tools 
 
 - **Programming Languages**: Python
-- **Data Analysis & Visualization**: Pandas, Matplotlib, Seaborn
+- **Data Analysis & Visualization**: Pandas, Matplotlib, Seaborn, Dash
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, PyTorch, XGBoost
 - **NLP & Language Models**: Langchain, Hugging Face Transformers, spaCy, OpenAI GPT
 
