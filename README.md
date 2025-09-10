@@ -1,6 +1,6 @@
 # Hi there, I'm Jorge Molina 👋
 
-**Senior Data Engineer at Globant** | **Full-Stack Developer** | **3D Web Developer**
+**sSenior Data Engineer at Globant** | **Full-Stack Developer** | **3D Web Developer**
 
 I'm a **Chemical Engineering graduate** from the University of São Paulo who transitioned into tech with a passion for creating innovative digital solutions. Currently specializing in **full-stack development**, **data engineering**, and **immersive web experiences**.
 
