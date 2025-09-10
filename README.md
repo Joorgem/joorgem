@@ -1,56 +1,113 @@
 # Hi there, I'm Jorge Molina 👋
 
-I am a Chemical Engineering graduate from the University of São Paulo, and I've been working in the field of data analysis for 4 years. Currently, I'm a Business Intelligence Analyst at a company within the Santander Group.
+**Senior Data Engineer at Globant** | **Full-Stack Developer** | **3D Web Developer**
 
-## 🧑‍💼 About Me
+I'm a **Chemical Engineering graduate** from the University of São Paulo who transitioned into tech with a passion for creating innovative digital solutions. Currently specializing in **full-stack development**, **data engineering**, and **immersive web experiences**.
 
-I am deeply passionate about the intersection of data science, machine learning, and artificial intelligence. My current focus is on advancing my expertise in Python and mastering cutting-edge libraries and frameworks. These include:
+## 🚀 What I'm Working On
 
-- **TensorFlow**: For building and deploying machine learning models.
-- **PyTorch**: For deep learning research and production.
-- **SkLearn**: For robust machine learning algorithms and model selection.
-- **Langchain**: For developing and integrating natural language processing (NLP) models.
-- **XGBoost**: For gradient boosting and efficient model training.
-- **Optuna**: For hyperparameter optimization to improve model performance.
-- **Dask**: For parallel computing and scaling data analysis workflows.
-- **Hugging Face Transformers**: For state-of-the-art NLP models and applications.
+- 🌟 **Interactive 3D Portfolio** - Spatial navigation with Three.js, React, and complex state management
+- 🛒 **SOLTO® E-commerce Platform** - Full-featured online store with Next.js 14, TypeScript, and Drizzle ORM
+- 🏢 **Enterprise Data Solutions** - Processing millions of records with Python, Azure Databricks, and React
+- 🤖 **AI-Powered React Applications** - Integrating OpenAI API with modern frontend frameworks
 
-## 💡 Interests
+## 💻 Tech Stack & Expertise
 
-- **Machine Learning**: Specializing in the design and implementation of sophisticated machine learning models, leveraging neural networks, reinforcement learning, and unsupervised learning techniques to solve complex problems.
-- **Data Science & Predictive Analytics**: Sstatistical analysis, predictive modeling, and data-driven decision making, utilizing advanced methodologies such as Bayesian inference, time series analysis, and anomaly detection.
-- **AI Engineering & Language Models**: Focused on developing and engineering advanced AI solutions, utilizing libraries such as Langchain for integrating sophisticated language models, and Hugging Face Transformers for building and deploying robust NLP applications.
+### Frontend Development
+- **React 19** • **Next.js 14** • **TypeScript** • **Three.js** • **Framer Motion**
+- **Tailwind CSS 4.0** • **Zustand** • **React Query** • **Vite 6.1**
+- **3D Graphics**: Three.js, WebGL, React Three Fiber, Advanced Animations
 
+### Backend & Data Engineering
+- **Python** • **Node.js** • **Express** • **Flask**
+- **Azure Databricks** • **PySpark** • **SQL/NoSQL**
+- **PostgreSQL** • **MongoDB** • **Drizzle ORM**
 
-## 🚀 Projects
+### Cloud & DevOps
+- **Azure** (Static Web Apps, AD, Synapse Analytics)
+- **AWS** (EC2, S3, RDS, Lambda, CloudFormation)
+- **Docker** • **CI/CD** • **Vercel** • **Git**
 
-- **Sales Analysis for Wish Marketplace**: Using Pandas and Matplotlib to identify trends and optimize sales strategies, employing linear regression and time series analysis.
-- **Predicting Heart Disease Risk with Machine Learning**: Utilized Scikit-learn and TensorFlow for logistic regression, decision trees, and neural networks on patient health data.
-- **Customer Churn Prediction**: Implemented XGBoost and Scikit-learn for gradient boosting and ensemble methods to forecast churn rates.
-- **Fraud Detection in Financial Transactions**: Applied random forests and anomaly detection using Scikit-learn and PyTorch for identifying fraudulent transactions.
-- **Recommendation System for E-commerce**: Developed with collaborative and content-based filtering using Scikit-learn and Surprise, deployed via FastAPI.
+### Data & AI
+- **Data Engineering**: ETL pipelines, Big Data processing, Real-time analytics
+- **AI Integration**: OpenAI API, Chatbots, Natural Language Processing
+- **Tools**: Pandas, NumPy, Matplotlib, Scikit-learn, Azure Synapse
 
-## 🛠️ Technologies & Tools 
+## 🎯 Current Focus Areas
 
-- **Programming Languages**: Python
-- **Data Analysis & Visualization**: Pandas, Matplotlib, Seaborn, Dash
-- **Machine Learning & AI**: Scikit-learn, TensorFlow, PyTorch, XGBoost
-- **NLP & Language Models**: Langchain, Hugging Face Transformers, spaCy, OpenAI GPT
+🔥 **Currently Learning (2025):**
+- AI-Powered React Applications with OpenAI integration
+- Advanced TypeScript patterns and meta-programming
+- E-commerce development with Next.js and Stripe
+- Docker containerization and Kubernetes orchestration
 
-## 🌱 Learning
+📈 **Professional Growth:**
+- Building scalable full-stack applications with enterprise architecture
+- Creating immersive 3D web experiences with performance optimization
+- Developing data pipelines for millions of records at national scale
+- Implementing comprehensive testing strategies with Playwright
 
-- Python
-- Machine Learning
-- AI Engineering
+## 🌟 Featured Projects
 
-## 📚 Reading
+### 🛒 [SOLTO® E-commerce Platform](https://solto-shop.vercel.app/)
+- **Next.js 14** + **TypeScript** + **Drizzle ORM** + **Stripe**
+- Complete admin panel with real-time analytics and inventory management
+- Responsive design optimized for all devices with advanced caching strategies
 
-- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems* by Aurélien Géron
+### 🌌 [Interactive 3D Portfolio](https://jorgemolina.dev/)
+- **Three.js** + **React** + **Zustand** + **Framer Motion**
+- Spatial navigation through 3D space with planetary UI system
+- Complex state management with 7-state navigation flow
 
-## Languages Used (By File Size)
+### 🏢 StoreHub Corporate System
+- **React 18** + **TypeScript** + **Azure AD** + **Node.js**
+- CNPJ consultation system with batch processing and CSV import
+- Enterprise authentication with Microsoft MSAL integration
 
-![Languages Used (By File Size)](https://github-readme-stats.vercel.app/api/top-langs/?username=joorgem&layout=compact&langs_count=8&hide=html,css)
+## 📊 Professional Experience
 
-## Get in Touch
+**Senior Data Engineer at Globant** (2024 - Present)
+- Full-stack solutions with Python/Flask and Azure Databricks
+- React/TypeScript applications with enterprise architecture
+- Processing millions of records for national-scale commercial audits
 
-Feel free to reach out to me via [your email] or connect with me on [LinkedIn](your-linkedin-profile).
+**Jr. Business Intelligence Analyst at Mobyan** (2022 - 2024)  
+- Big Data processing with PySpark in Azure Synapse Analytics
+- Interactive Python reports integrating multiple data sources
+- API development and financial process automation
+
+## 🎓 Continuous Learning Journey
+
+**Recent Certifications & Courses (2024-2025):**
+- AI-Powered React Applications (JavaScript Mastery)
+- Ultimate AWS Certified Cloud Practitioner (Stephane Maarek)
+- Docker: From Basic to Advanced
+- Three.js for Beginners (Chris Courses)
+- Next.js E-commerce Bootcamp (Fullstack Club)
+
+## 🎯 What Drives Me
+
+- 🧠 **Learning something new every day** - Always exploring cutting-edge technologies
+- 🏋️ **Physical wellness** - Handstand training and maintaining work-life balance
+- 👥 **Collaborative growth** - Being around people who inspire and challenge me
+- 🌱 **Sustainable development** - Writing clean, maintainable, and scalable code
+
+## 📈 GitHub Stats
+
+```
+🔥 Focus Areas: Full-Stack Development, 3D Web Apps, Data Engineering
+📍 Location: Brazil
+🎓 Education: Chemical Engineering, University of São Paulo (2017-2023)
+💼 Current Role: Senior Data Engineer at Globant
+🌐 Portfolio: jorgemolina.dev
+```
+
+## 🌐 Let's Connect
+
+- 💼 **LinkedIn**: [Jorge Molina](https://linkedin.com/in/jorge-molina)
+- 🌐 **Portfolio**: [jorgemolina.dev](https://jorgemolina.dev)
+- 📧 **Email**: [jorge@jorgemolina.dev](mailto:jorge@jorgemolina.dev)
+
+---
+
+*"Turning ideas into code since 2020"* - From Chemical Engineering to Full-Stack Development, always building the future, one line of code at a time.
