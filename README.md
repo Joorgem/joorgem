@@ -1,113 +1,33 @@
-# Hi there, I'm Jorge Molina 👋
+# Jorge Molina
 
-**sSenior Data Engineer at Globant** | **Full-Stack Developer** | **3D Web Developer**
+**Senior Data Engineer** — Databricks · PySpark · Delta Lake · Snowflake
 
-I'm a **Chemical Engineering graduate** from the University of São Paulo who transitioned into tech with a passion for creating innovative digital solutions. Currently specializing in **full-stack development**, **data engineering**, and **immersive web experiences**.
+Production data platforms: ingestion, transformation, and the reliability layer around them. Currently at CI&T; previously Globant and Mobyan (Santander Group). Around five years building pipelines other teams depend on.
 
-## 🚀 What I'm Working On
+## In the open
 
-- 🌟 **Interactive 3D Portfolio** - Spatial navigation with Three.js, React, and complex state management
-- 🛒 **SOLTO® E-commerce Platform** - Full-featured online store with Next.js 14, TypeScript, and Drizzle ORM
-- 🏢 **Enterprise Data Solutions** - Processing millions of records with Python, Azure Databricks, and React
-- 🤖 **AI-Powered React Applications** - Integrating OpenAI API with modern frontend frameworks
+**[open-payments-lakehouse](https://github.com/Joorgem/open-payments-lakehouse)** — a lakehouse over real, messy Brazilian government data (Receita Federal's CNPJ registry). The PySpark/Delta core is tested locally and in CI and deployed to Databricks Free Edition with its actual limits documented rather than glossed over: 71.9M rows ingested behind a blocking data-quality gate with quarantine. Design decisions live as ADRs and real runs are captured verbatim — including three incidents that cost real job runs.
 
-## 💻 Tech Stack & Expertise
+**[apache/spark#57608](https://github.com/apache/spark/pull/57608)** *(open)* — documents what Spark's CSV reader does when `multiLine` is left at its default and a quoted value contains a line break: the record splits silently, and because the split *adds* a row while the bad fragment is separately rejected, a row-count reconciliation can pass over corrupt data. Found while ingesting the CNPJ registry, then verified across all three parse modes before proposing any wording.
 
-### Frontend Development
-- **React 19** • **Next.js 14** • **TypeScript** • **Three.js** • **Framer Motion**
-- **Tailwind CSS 4.0** • **Zustand** • **React Query** • **Vite 6.1**
-- **3D Graphics**: Three.js, WebGL, React Three Fiber, Advanced Animations
+## Stack
 
-### Backend & Data Engineering
-- **Python** • **Node.js** • **Express** • **Flask**
-- **Azure Databricks** • **PySpark** • **SQL/NoSQL**
-- **PostgreSQL** • **MongoDB** • **Drizzle ORM**
+|  |  |
+|---|---|
+| **Data** | PySpark · Delta Lake · Iceberg · Snowflake · SQL · Kafka · medallion / lakehouse · data contracts |
+| **Orchestration** | Airflow · Azure Data Factory · dbt · Databricks Jobs & Asset Bundles |
+| **Cloud & IaC** | Azure · AWS · Pulumi · Terraform · Docker · GitHub Actions |
+| **Python** | FastAPI · Pytest |
+| **Quality** | Great Expectations · Soda · schema-drift detection · Playwright |
 
-### Cloud & DevOps
-- **Azure** (Static Web Apps, AD, Synapse Analytics)
-- **AWS** (EC2, S3, RDS, Lambda, CloudFormation)
-- **Docker** • **CI/CD** • **Vercel** • **Git**
+## Also
 
-### Data & AI
-- **Data Engineering**: ETL pipelines, Big Data processing, Real-time analytics
-- **AI Integration**: OpenAI API, Chatbots, Natural Language Processing
-- **Tools**: Pandas, NumPy, Matplotlib, Scikit-learn, Azure Synapse
+Full-stack products shipped end to end on the freelance track:
 
-## 🎯 Current Focus Areas
+- **[jorgemolina.dev](https://jorgemolina.dev)** — 3D portfolio where sections are planets in a navigable space scene, with an accessible non-3D fallback. State-machine navigation and an object-pooled render loop keep a WebGL-heavy app at ~1.6 MB of JS. ([source](https://github.com/Joorgem/portfolio))
+- **[fernandafiuza.com](https://fernandafiuza.com)** — bilingual, video-first site for a movement director, entirely client-managed through a visual CMS.
+- **[solto-shop.vercel.app](https://solto-shop.vercel.app)** — e-commerce storefront with a full admin back office.
 
-🔥 **Currently Learning (2025):**
-- AI-Powered React Applications with OpenAI integration
-- Advanced TypeScript patterns and meta-programming
-- E-commerce development with Next.js and Stripe
-- Docker containerization and Kubernetes orchestration
+## Elsewhere
 
-📈 **Professional Growth:**
-- Building scalable full-stack applications with enterprise architecture
-- Creating immersive 3D web experiences with performance optimization
-- Developing data pipelines for millions of records at national scale
-- Implementing comprehensive testing strategies with Playwright
-
-## 🌟 Featured Projects
-
-### 🛒 [SOLTO® E-commerce Platform](https://solto-shop.vercel.app/)
-- **Next.js 14** + **TypeScript** + **Drizzle ORM** + **Stripe**
-- Complete admin panel with real-time analytics and inventory management
-- Responsive design optimized for all devices with advanced caching strategies
-
-### 🌌 [Interactive 3D Portfolio](https://jorgemolina.dev/)
-- **Three.js** + **React** + **Zustand** + **Framer Motion**
-- Spatial navigation through 3D space with planetary UI system
-- Complex state management with 7-state navigation flow
-
-### 🏢 StoreHub Corporate System
-- **React 18** + **TypeScript** + **Azure AD** + **Node.js**
-- CNPJ consultation system with batch processing and CSV import
-- Enterprise authentication with Microsoft MSAL integration
-
-## 📊 Professional Experience
-
-**Senior Data Engineer at Globant** (2024 - Present)
-- Full-stack solutions with Python/Flask and Azure Databricks
-- React/TypeScript applications with enterprise architecture
-- Processing millions of records for national-scale commercial audits
-
-**Jr. Business Intelligence Analyst at Mobyan** (2022 - 2024)  
-- Big Data processing with PySpark in Azure Synapse Analytics
-- Interactive Python reports integrating multiple data sources
-- API development and financial process automation
-
-## 🎓 Continuous Learning Journey
-
-**Recent Certifications & Courses (2024-2025):**
-- AI-Powered React Applications (JavaScript Mastery)
-- Ultimate AWS Certified Cloud Practitioner (Stephane Maarek)
-- Docker: From Basic to Advanced
-- Three.js for Beginners (Chris Courses)
-- Next.js E-commerce Bootcamp (Fullstack Club)
-
-## 🎯 What Drives Me
-
-- 🧠 **Learning something new every day** - Always exploring cutting-edge technologies
-- 🏋️ **Physical wellness** - Handstand training and maintaining work-life balance
-- 👥 **Collaborative growth** - Being around people who inspire and challenge me
-- 🌱 **Sustainable development** - Writing clean, maintainable, and scalable code
-
-## 📈 GitHub Stats
-
-```
-🔥 Focus Areas: Full-Stack Development, 3D Web Apps, Data Engineering
-📍 Location: Brazil
-🎓 Education: Chemical Engineering, University of São Paulo (2017-2023)
-💼 Current Role: Senior Data Engineer at Globant
-🌐 Portfolio: jorgemolina.dev
-```
-
-## 🌐 Let's Connect
-
-- 💼 **LinkedIn**: [Jorge Molina](https://linkedin.com/in/jorge-molina)
-- 🌐 **Portfolio**: [jorgemolina.dev](https://jorgemolina.dev)
-- 📧 **Email**: [jorge@jorgemolina.dev](mailto:jorge@jorgemolina.dev)
-
----
-
-*"Turning ideas into code since 2020"* - From Chemical Engineering to Full-Stack Development, always building the future, one line of code at a time.
+[jorgemolina.dev](https://jorgemolina.dev) · [LinkedIn](https://www.linkedin.com/in/jorge-molinadavid) · contato@jorgemolina.dev
